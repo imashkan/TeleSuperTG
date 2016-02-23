@@ -1,0 +1,6 @@
+[ Mon Feb  8 20:04:28 2016 ]=>  Reportam_10_sticker [164565909] locked chat?? 
+ 
+[ Mon Feb  8 20:07:29 2016 ]=>  Reportam_10_sticker [164565909] unlocked chat?? 
+ 
+[ Tue Feb  9 13:06:19 2016 ]=>  Reportam_10_sticker [164565909] deleted user  user#id160612449
+ 

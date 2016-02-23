@@ -1,0 +1,100 @@
+[ Fri Jan 29 02:38:33 2016 ]=>  Mostafa_Es [164565909] used /id 
+ 
+[ Fri Jan 29 02:38:45 2016 ]=>  Mostafa_Es [164565909] left using kickme 
+ 
+[ Fri Jan 29 02:38:46 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id164565909
+ 
+[ Fri Jan 29 02:38:46 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id164565909
+ 
+[ Fri Jan 29 13:31:52 2016 ]=>  Mostafa_Es [164565909] set [000] as owner
+ 
+[ Fri Jan 29 13:31:54 2016 ]=>  Mostafa_Es [164565909] used /id 
+ 
+[ Fri Jan 29 13:31:54 2016 ]=>  Mostafa_Es [164565909] used /id 
+ 
+[ Fri Jan 29 13:33:37 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id146270001
+ 
+[ Fri Jan 29 13:33:37 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id146270001
+ 
+[ Fri Jan 29 13:33:37 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id160612449
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id160612449
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id98223125
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id98223125
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id148240477
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id148240477
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id149544863
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id149544863
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id119367717
+ 
+[ Fri Jan 29 13:33:38 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id119367717
+ 
+[ Fri Jan 29 13:33:49 2016 ]=>  Mostafa_Es [164565909] deleted user  user#id160612449
+ 
+[ Fri Jan 29 13:33:49 2016 ]=>  Mostafa_Es [164565909] deleted user  user#id160612449
+ 
+[ Sat Jan 30 10:20:15 2016 ]=>  محمد [175199071] added a banned user >148240477
+ 
+[ Sat Jan 30 10:20:15 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id148240477
+ 
+[ Sat Jan 30 10:23:33 2016 ]=>  Mostafa_Es [164565909] used /id 
+ 
+[ Sat Jan 30 10:23:46 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id160612449
+ 
+[ Sat Jan 30 10:23:55 2016 ]=>  محمد [175199071] added a banned user >148240477
+ 
+[ Sat Jan 30 10:23:56 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id148240477
+ 
+[ Sat Jan 30 10:34:15 2016 ]=>  محمد [175199071] added a banned user >148240477
+ 
+[ Sat Jan 30 10:34:17 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id148240477
+ 
+[ Sat Jan 30 10:38:25 2016 ]=>  Mostafa_Es [164565909] Used /res Xx_Fbi_Mohammad_xX
+ 
+[ Sat Jan 30 10:38:37 2016 ]=>  Mostafa_Es [164565909] unbaned user 148240477
+ 
+[ Sat Jan 30 16:09:04 2016 ]=>  Mostafa_Es [164565909] used /id 
+ 
+[ Sat Jan 30 16:09:10 2016 ]=>  Mostafa_Es [164565909] set [148240477] as owner
+ 
+[ Sun Jan 31 04:06:22 2016 ]=>  M.Z [148240477] locked name?? 
+ 
+[ Sun Jan 31 04:08:28 2016 ]=>  M.Z [148240477] locked member?? 
+ 
+[ Sun Jan 31 12:00:52 2016 ]=>  ฬ๏lŦ_รкץ [113646780] is banned and kicked ! 
+ 
+[ Sun Jan 31 12:00:53 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:02:02 2016 ]=>  ฬ๏lŦ_รкץ [113646780] is banned and kicked ! 
+ 
+[ Sun Jan 31 12:02:02 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:02:51 2016 ]=>  محمدฬ๏lŦ_รкץ [175199071] added a banned user >113646780
+ 
+[ Sun Jan 31 12:02:51 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:02:51 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:02:51 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id175199071
+ 
+[ Sun Jan 31 12:05:03 2016 ]=>  M.Z [148240477] used /id 
+ 
+[ Sun Jan 31 12:08:28 2016 ]=>  M.Z [148240477] added a banned user >113646780
+ 
+[ Sun Jan 31 12:08:29 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:08:29 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 
+[ Sun Jan 31 12:09:30 2016 ]=>  M.Z [148240477] unlocked member?? 
+ 
+[ Sun Jan 31 12:09:39 2016 ]=>  M.Z [148240477] added a banned user >113646780
+ 
+[ Sun Jan 31 12:09:39 2016 ]=>  🍃Teamus🍃 [0] deleted user  user#id113646780
+ 

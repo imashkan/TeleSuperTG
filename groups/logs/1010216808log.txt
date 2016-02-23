@@ -1,0 +1,30 @@
+[ Wed Feb 10 10:01:58 2016 ]=>  Reportam_10_sticker [164565909] requested group description
+ 
+[ Wed Feb 10 10:02:52 2016 ]=>  Reportam_10_sticker [164565909] has changed group description to [Link :
+https://telegram.me/joinchat/CH_PRTw2r2hW2c898_iG4g]
+ 
+[ Wed Feb 10 10:04:00 2016 ]=>  Reportam_10_sticker [164565909] has changed group rules to [🔘صحبت فقط در مورد ربات تیماس🍃
+🔘تبلیغ = حذف میشه 🍃
+🔘اسپم = اخراج🍃
+🔘حرف زیاد = سایلنت  🍃
+🔘جهت ارتباط با ادمین به این ربات پیام بدید🍃
+@MostafaEsZBot 🍃]
+ 
+[ Wed Feb 10 10:06:55 2016 ]=>  Reportam_10_sticker [164565909] requested group settings 
+ 
+[ Wed Feb 10 10:07:04 2016 ]=>  Reportam_10_sticker [164565909] locked tag?? 
+ 
+[ Wed Feb 10 11:04:47 2016 ]=>  Reportam_10_sticker [164565909] requested group settings 
+ 
+[ Wed Feb 10 12:21:10 2016 ]=>  Reportam_10_sticker [164565909] locked link?? 
+ 
+[ Wed Feb 10 12:21:19 2016 ]=>  Reportam_10_sticker [164565909] requested group settings 
+ 
+[ Wed Feb 10 12:22:03 2016 ]=>  Reportam_10_sticker [164565909] locked tag?? 
+ 
+[ Wed Feb 10 12:44:58 2016 ]=>  Reportam_10_sticker [164565909] set [56693692] as owner
+ 
+[ Wed Feb 10 12:49:52 2016 ]=>  ‮_❤ղҽҽɾҽs.гเʍa❤ [147509695] locked chat?? 
+ 
+[ Wed Feb 10 12:51:40 2016 ]=>  Arman_.report🤓 [80409655] unlocked chat?? 
+ 
