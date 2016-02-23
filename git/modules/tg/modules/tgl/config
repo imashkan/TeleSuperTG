@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../tg/tgl
+[remote "origin"]
+	url = https://github.com/vysheng/tgl.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[submodule "tl-parser"]
+	url = https://github.com/vysheng/tl-parser
